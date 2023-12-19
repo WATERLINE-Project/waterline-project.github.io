@@ -26,6 +26,21 @@ The launch of our full resource hub is on the horizon. Bookmark this page to sta
 
 We're excited to support your journey in the WATERLINE project. Your contribution and collaboration are vital in shaping the future of digital water education.
 
+{: .warning }
+This is a warning
+
+{: .highlight }
+This is a highlight
+
+{: .important }
+This is important 
+
+{: .new }
+This is new
+
+{: .note }
+This is a note
+
 
 ----
 

@@ -1,4 +1,4 @@
-title: Waterline Developer Hub - Unleashing Potential in Digital Water Education
+title: Waterline Developer Hub
 description: WATERLINE Developer Resources - Elevating VR/AR Innovation in Water Education
 theme: just-the-docs
 
@@ -7,3 +7,25 @@ logo: "/assets/images/logo.jpeg"
 favicon_ico: "/assets/images/favicon.ico"
 
 url: https://waterline-project.github.io
+
+callouts:
+  warning:
+    title: Warning
+    color: red
+
+  highlight:
+    title: Highlight
+    color: yellow
+
+  important:
+    title: Important
+    color: blue
+
+  new:
+    title: New
+    color: green
+
+  note:
+    title: Note
+    color: purple
+
